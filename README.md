@@ -49,15 +49,6 @@ Plotly map → Opens automatically with live event filtering.
 
 
 
----
-
-🖼️ Screenshots
-
-
-
-
----
-
 🛠 Tech Stack
 
 Python (Data Processing)
@@ -118,9 +109,7 @@ This project is licensed under the MIT License.
 
 📧 Contact
 
-GitHub: yourusername
-
-Email: your.email@example.com
+Email: kwakyeprince088@gmail.com 
 
 
 ---
