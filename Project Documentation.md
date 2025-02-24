@@ -1,6 +1,4 @@
----
-
-##📜 Code Explanation: Real-Time Satellite Data Visualizer
+#📜 Code Explanation: Real-Time Satellite Data Visualizer
 
 This Python script fetches real-time natural disaster events from NASA’s EONET API and overlays them on an interactive map using Folium and Plotly. Additionally, it integrates OpenWeatherMap to display live weather data for each event location.
 
